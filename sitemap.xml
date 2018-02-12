@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://smosher.net/categories/</loc>
+    <loc>https://sjmosher.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://smosher.net/</loc>
+    <loc>https://sjmosher.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://smosher.net/tags/</loc>
+    <loc>https://sjmosher.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
