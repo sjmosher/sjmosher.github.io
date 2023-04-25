@@ -1,0 +1,748 @@
+[
+	{
+		"id": 1,
+		"name": "Communication",
+		"behavioral_Indicators" : [
+			{
+				"id": 1,
+				"description": "built and maintained effective working relationships with customers and colleagues",
+				"level": 0
+			},
+			{
+				"id": 2,
+				"description": "received information to seek and understand differing perspectives",
+				"level": 0
+			},
+			{
+				"id": 3,
+				"description": "used interpersonal skills to build cooperative relationships",
+				"level": 0
+			},
+			{
+				"id": 4,
+				"description": "received and learned from feedback ",
+				"level": 0
+			},
+			{
+				"id": 5,
+				"description": "tailored and presented information to diverse audiences using a variety of communication delivery methods (e.g., written, electronic, oral, interpersonal)",
+				"level": 0
+			},
+			{
+				"id": 6,
+				"description": "created clear and concise written communication",
+				"level": 0
+			},
+			{
+				"id": 7,
+				"description": "used negotiation and mediation skills ",
+				"level": 0
+			},
+			{
+				"id": 8,
+				"description": "leveraged working relationships with customers and colleagues to build strong connections, cooperation and collaboration",
+				"level": 1
+			},
+			{
+				"id": 9,
+				"description": "actively sought perspectives from others to ensure inclusiveness and understanding ",
+				"level": 1
+			},
+			{
+				"id": 10,
+				"description": "modeled interpersonal communication that invites participation and future dialogue",
+				"level": 1
+			},
+			{
+				"id": 11,
+				"description": "encouraged feedback and used it as a factor when considering personal and or organizational changes",
+				"level": 1
+			},
+			{
+				"id": 12,
+				"description": "tailored and delivered high-level presentations to diverse audiences using a variety of communication delivery methods (e.g., written, electronic, oral, interpersonal) ",
+				"level": 1
+			},
+			{
+				"id": 13,
+				"description": "created impactful written communication; improved others’ writing through editing and feedback process",
+				"level": 1
+			},
+			{
+				"id": 14,
+				"description": "facilitated management of differences by addressing them openly and encouraging mutually beneficial resolutions",
+				"level": 1
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Decision Making",
+		"behavioral_Indicators" : [
+			{
+				"id": 15,
+				"description": "distinguished relevant from irrelevant information",
+				"level": 0
+			},
+			{
+				"id": 16,
+				"description": "used sound judgment and integrity to make clear, transparent decisions",
+				"level": 0
+			},
+			{
+				"id": 17,
+				"description": "made decisions based on relevant information",
+				"level": 0
+			},
+			{
+				"id": 18,
+				"description": "made decisions in a timely manner",
+				"level": 0
+			},
+			{
+				"id": 19,
+				"description": "helped others distinguish relevant from irrelevant information and resolved discrepancies",
+				"level": 1
+			},
+			{
+				"id": 20,
+				"description": "modeled the use of sound judgment and integrity to make clear, transparent decisions regarding complex and/or sensitive issues or materials",
+				"level": 1
+			},
+			{
+				"id": 21,
+				"description": "made independent, critical decisions based on relevant information",
+				"level": 1
+			},
+			{
+				"id": 22,
+				"description": "applied solutions based on decisions in a timely manner",
+				"level": 1
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Leadership",
+		"behavioral_Indicators" : [
+			{
+				"id": 23,
+				"description": "demonstrated individual leadership skills (e.g., interpersonal, communication, political acumen)",
+				"level": 0
+			},
+			{
+				"id": 24,
+				"description": "generated trust and credibility; displayed honesty, integrity and ethical behavior",
+				"level": 0
+			},
+			{
+				"id": 25,
+				"description": "inspired others to act",
+				"level": 0
+			},
+			{
+				"id": 26,
+				"description": "employed political acumen skills",
+				"level": 0
+			},
+			{
+				"id": 27,
+				"description": "influenced others",
+				"level": 0
+			},
+			{
+				"id": 28,
+				"description": "accepted responsibility for successes and failures",
+				"level": 0
+			},
+			{
+				"id": 29,
+				"description": "developed self",
+				"level": 0
+			},
+			{
+				"id": 30,
+				"description": "recognized and acknowledged achievements of others",
+				"level": 0
+			},
+			{
+				"id": 31,
+				"description": "modeled leadership skills and aligned actions with shared values",
+				"level": 1
+			},
+			{
+				"id": 32,
+				"description": "exemplified integrity and expected honest, ethical behavior from others",
+				"level": 1
+			},
+			{
+				"id": 33,
+				"description": "inspired others to act and fostered a climate of motivation",
+				"level": 1
+			},
+			{
+				"id": 34,
+				"description": "demonstrated a high level of political acumen in all situations",
+				"level": 1
+			},
+			{
+				"id": 35,
+				"description": "persuaded and encouraged others to adapt to desired changes",
+				"level": 1
+			},
+			{
+				"id": 36,
+				"description": "enabled others to accept responsibility for their own work and created a culture of accountability",
+				"level": 1
+			},
+			{
+				"id": 37,
+				"description": "coached and developed others ",
+				"level": 1
+			},
+			{
+				"id": 38,
+				"description": "recognized and acknowledged efforts as well as achievements of others",
+				"level": 1
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Principles of Community",
+		"behavioral_Indicators" : [
+			{
+				"id": 39,
+				"description": "promoted and sustained a community that acknowledges and celebrates differences",
+				"level": 0
+			},
+			{
+				"id": 40,
+				"description": "created opportunities for inclusion in a variety of settings",
+				"level": 0
+			},
+			{
+				"id": 41,
+				"description": "showed respect for people and their differences",
+				"level": 0
+			},
+			{
+				"id": 42,
+				"description": "worked to understand the perspectives of others and demonstrated empathy",
+				"level": 0
+			},
+			{
+				"id": 43,
+				"description": "worked to build mutual respect, fairness and equity",
+				"level": 0
+			},
+			{
+				"id": 44,
+				"description": "advocated for the UC Davis Principles of Community in all interactions",
+				"level": 1
+			},
+			{
+				"id": 45,
+				"description": "designed and advocated for inclusive practices in all settings",
+				"level": 1
+			},
+			{
+				"id": 46,
+				"description": "advocated for deep understanding and respect for the diversity of cultures, values, perspectives and beliefs",
+				"level": 1
+			},
+			{
+				"id": 47,
+				"description": "worked to understand the perspectives of others and encouraged them to provide their perspectives",
+				"level": 1
+			},
+			{
+				"id": 48,
+				"description": "modeled and promoted mutual respect, fairness and equity to foster a sense of belonging",
+				"level": 1
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Problem Solving",
+		"behavioral_Indicators" : [
+			{
+				"id": 49,
+				"description": "identified issues and problems ",
+				"level": 0
+			},
+			{
+				"id": 50,
+				"description": "gathered and organized data related to problems",
+				"level": 0
+			},
+			{
+				"id": 51,
+				"description": "analyzed and synthesized data to generate potential solutions",
+				"level": 0
+			},
+			{
+				"id": 52,
+				"description": "consulted others during various phases of the problem solving process",
+				"level": 0
+			},
+			{
+				"id": 53,
+				"description": "demonstrated creative and innovative thinking to find best solutions",
+				"level": 0
+			},
+			{
+				"id": 54,
+				"description": "responded to challenges and problems in a timely manner",
+				"level": 0
+			},
+			{
+				"id": 55,
+				"description": "communicated in a variety of media, information regarding issues and problems",
+				"level": 1
+			},
+			{
+				"id": 56,
+				"description": "exercised independent judgment in gathering and organizing data related to problems",
+				"level": 1
+			},
+			{
+				"id": 57,
+				"description": "analyzed and synthesized highly sensitive and complex data to generate potential solutions",
+				"level": 1
+			},
+			{
+				"id": 58,
+				"description": "mobilized others during various phases of the problem solving process",
+				"level": 1
+			},
+			{
+				"id": 59,
+				"description": "modeled creative and innovative thinking to find best solutions",
+				"level": 1
+			},
+			{
+				"id": 60,
+				"description": "anticipated challenges and problems and responded in a timely manner",
+				"level": 1
+			}
+		]
+	},
+  {
+    "id": 6,
+    "name": "Quality Improvement",
+    "behavioral_Indicators" : [
+      {
+        "id": 61,
+        "description": "set and met quality improvement targets",
+        "level": 0
+      },
+      {
+        "id": 62,
+        "description": "strived for efficient, effective, high quality performance",
+        "level": 0
+      },
+      {
+        "id": 63,
+        "description": "delivered results by deadlines",
+        "level": 0
+      },
+      {
+        "id": 64,
+        "description": "responded to difficult situations and took initiative to make improvements",
+        "level": 0
+      },
+      {
+        "id": 65,
+        "description": "focused on quality",
+        "level": 0
+      },
+      {
+        "id": 66,
+        "description": "used benchmarking and reviews best practices to set and meet quality improvement targets",
+        "level": 1
+      },
+      {
+        "id": 67,
+        "description": "took initiative and evaluated trends to improve efficiency and effectiveness resulting in high quality performance in self and in the organization",
+        "level": 1
+      },
+      {
+        "id": 68,
+        "description": "managed timeframes and deadlines",
+        "level": 1
+      },
+      {
+        "id": 69,
+        "description": "displayed resiliency and took proactive measures to make improvements",
+        "level": 1
+      },
+      {
+        "id": 70,
+        "description": "ensured the delivery of high quality results",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Service Focus",
+    "behavioral_Indicators" : [
+      {
+        "id": 70,
+        "description": "sought to understand organizational business needs",
+        "level": 0
+      },
+      {
+        "id": 71,
+        "description": "sought to understand customer needs",
+        "level": 0
+      },
+      {
+        "id": 72,
+        "description": "responded to customer needs",
+        "level": 0
+      },
+      {
+        "id": 73,
+        "description": "recommended solutions to customer needs",
+        "level": 0
+      },
+      {
+        "id": 74,
+        "description": "assumed shared accountability for improving service delivery",
+        "level": 0
+      },
+      {
+        "id": 75,
+        "description": "identified and assessed organizational business needs",
+        "level": 1
+      },
+      {
+        "id": 76,
+        "description": "identified and assessed customer needs",
+        "level": 1
+      },
+      {
+        "id": 77,
+        "description": "modeled innovative ways to respond to customer needs",
+        "level": 1
+      },
+      {
+        "id": 78,
+        "description": "used best practices to develop solutions and respond to customer needs",
+        "level": 1
+      },
+      {
+        "id": 79,
+        "description": "evaluated customer satisfaction and used the data to improve service delivery",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Stewardship and Managing Resources",
+    "behavioral_Indicators" : [
+      {
+        "id": 80,
+        "description": "exercised accountability in managing university resources",
+        "level": 0
+      },
+      {
+        "id": 81,
+        "description": "used discretion and sound judgment",
+        "level": 0
+      },
+      {
+        "id": 82,
+        "description": "understood university values",
+        "level": 0
+      },
+      {
+        "id": 83,
+        "description": "understood and applied university policies and procedures",
+        "level": 0
+      },
+      {
+        "id": 84,
+        "description": "managed resources",
+        "level": 0
+      },
+      {
+        "id": 85,
+        "description": "managed budgets",
+        "level": 0
+      },
+      {
+        "id": 86,
+        "description": "adhered to university safety guidelines",
+        "level": 0
+      },
+      {
+        "id": 87,
+        "description": "managed risks",
+        "level": 0
+      },
+      {
+        "id": 88,
+        "description": "modeled accountability in managing university resources in an open, effective manner",
+        "level": 1
+      },
+      {
+        "id": 89,
+        "description": "modeled the use of discretion and sound judgment",
+        "level": 1
+      },
+      {
+        "id": 90,
+        "description": "embraced university values and integrates them when managing any resources",
+        "level": 1
+      },
+      {
+        "id": 91,
+        "description": "established and promoted university policies and procedures",
+        "level": 1
+      },
+      {
+        "id": 92,
+        "description": "displayed stewardship when allocating and managing resources",
+        "level": 1
+      },
+      {
+        "id": 93,
+        "description": "oversaw budgets",
+        "level": 1
+      },
+      {
+        "id": 94,
+        "description": "modeled and promoted behavioral safety in accordance with university safety guidelines",
+        "level": 1
+      },
+      {
+        "id": 95,
+        "description": "raised awareness in others about managing risks",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Strategic Planning",
+    "behavioral_Indicators" : [
+      {
+        "id": 96,
+        "description": "understood the 'big picture' and vision of the organization",
+        "level": 0
+      },
+      {
+        "id": 97,
+        "description": "aligned priorities with goals ",
+        "level": 0
+      },
+      {
+        "id": 98,
+        "description": "measured outcomes",
+        "level": 0
+      },
+      {
+        "id": 99,
+        "description": "sought input from a variety of constituencies",
+        "level": 0
+      },
+      {
+        "id": 100,
+        "description": "considered alternative solutions",
+        "level": 0
+      },
+      {
+        "id": 101,
+        "description": "comprehended connections within complex issues",
+        "level": 0
+      },
+      {
+        "id": 102,
+        "description": "created budgets",
+        "level": 0
+      },
+      {
+        "id": 103,
+        "description": "implemented change",
+        "level": 0
+      },
+      {
+        "id": 104,
+        "description": "organized projects and associated time and priorities",
+        "level": 0
+      },
+      {
+        "id": 105,
+        "description": "championed the organization’s vision",
+        "level": 1
+      },
+      {
+        "id": 106,
+        "description": "established priorities and ensured their alignment with goals",
+        "level": 1
+      },
+      {
+        "id": 107,
+        "description": "established methodology for measuring outcomes; communicated results",
+        "level": 1
+      },
+      {
+        "id": 108,
+        "description": "sought input from a variety of constituencies and used the feedback to redirect efforts as needed",
+        "level": 1
+      },
+      {
+        "id": 109,
+        "description": "sought, evaluated and implemented alternative solutions",
+        "level": 1
+      },
+      {
+        "id": 110,
+        "description": "encouraged others to appreciate connections within complex issues",
+        "level": 1
+      },
+      {
+        "id": 111,
+        "description": "oversaw budgets",
+        "level": 1
+      },
+      {
+        "id": 112,
+        "description": "managed change",
+        "level": 1
+      },
+      {
+        "id": 113,
+        "description": "oversaw project management and implemented strategies",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Teamwork",
+    "behavioral_Indicators" : [
+      {
+        "id": 114,
+        "description": "cooperated and collaborated",
+        "level": 0
+      },
+      {
+        "id": 115,
+        "description": "was flexible",
+        "level": 0
+      },
+      {
+        "id": 116,
+        "description": "contributed to the team",
+        "level": 0
+      },
+      {
+        "id": 117,
+        "description": "shared accountability",
+        "level": 0
+      },
+      {
+        "id": 118,
+        "description": "worked in partnership with others ",
+        "level": 0
+      },
+      {
+        "id": 119,
+        "description": "organized effective teams",
+        "level": 0
+      },
+      {
+        "id": 120,
+        "description": "fostered cooperation and collaboration in others through trust-building and relationships",
+        "level": 1
+      },
+      {
+        "id": 121,
+        "description": "encouraged and enabled flexibility",
+        "level": 1
+      },
+      {
+        "id": 122,
+        "description": "facilitated and modeled teamwork across the organization",
+        "level": 1
+      },
+      {
+        "id": 123,
+        "description": "created a culture of accountability",
+        "level": 1
+      },
+      {
+        "id": 124,
+        "description": "fostered partnerships towards a shared vision",
+        "level": 1
+      },
+      {
+        "id": 125,
+        "description": "built effective teams across organizations and levels, inside and outside own organization",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Managing People",
+    "behavioral_Indicators" : [
+      {
+        "id": 126,
+        "description": "recruited, selected and worked to retain employees",
+        "level": 0
+      },
+      {
+        "id": 127,
+        "description": "delegated tasks, set performance expectations and supervised work of others",
+        "level": 0
+      },
+      {
+        "id": 128,
+        "description": "monitored and assessed work performance",
+        "level": 0
+      },
+      {
+        "id": 129,
+        "description": "provided objective behavioral feedback",
+        "level": 0
+      },
+      {
+        "id": 130,
+        "description": "created opportunity for employee development",
+        "level": 0
+      },
+      {
+        "id": 131,
+        "description": "facilitated the recruitment, selection and retention of employees",
+        "level": 1
+      },
+      {
+        "id": 132,
+        "description": "delegated assigned tasks in alignment with operational goals",
+        "level": 1
+      },
+      {
+        "id": 133,
+        "description": "coached to maximize achievement of performance expectations",
+        "level": 1
+      },
+      {
+        "id": 134,
+        "description": "modeled objective behavioral feedback",
+        "level": 1
+      },
+      {
+        "id": 135,
+        "description": "championed employee development for career growth and mobility",
+        "level": 1
+      }
+    ]
+  }
+]

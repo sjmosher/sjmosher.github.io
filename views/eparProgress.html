@@ -1,0 +1,8 @@
+<ul class="list-group">
+    <li ng-repeat="competency in competencies track by competency.id" class="list-group-item"
+      ng-class="{'list-group-item-success': competencyCount(competency) > 1, 'list-group-item-warning': competencyCount(competency) === 1}"
+      tooltip="{{ competencyCount(competency) === 1 ? 'consider adding more of this competency' : '' }}" tooltip-placement="top" tooltip-animation="false">
+      <span class="badge">{{ competencyCount(competency) }}</span>
+      {{competency.name}}
+    </li>
+</div>

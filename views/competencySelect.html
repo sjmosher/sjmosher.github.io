@@ -1,0 +1,10 @@
+<div ng-repeat="competency in competencies track by competency.id" class="checkbox competency-checkbox">
+  <label confirm-button="toggleCompetency(competency)"
+  	message="Are you sure you want to uncheck this competency? Note that all associated data will be lost"
+  	yes="Uncheck" no="Cancel" placement="right" confirm-only-if="competencyIsSelected(competency)">
+    <span class="glyphicon" aria-hidden="true"
+      ng-class="{'glyphicon-check': competencyIsSelected(competency),
+      'glyphicon-unchecked': !competencyIsSelected(competency)}"></span>
+    {{competency.name}}
+  </label>
+</div>

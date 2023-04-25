@@ -1,0 +1,76 @@
+<div class="well epar-entry">
+  <div class="row">
+    <div class="col-xs-12">
+      <h3 class="dropdown" dropdown on-toggle="toggled(open)">
+        <span href class="dropdown-toggle" dropdown-toggle>
+          {{ entry.type ? entry.type : 'Select a type' }}
+        </span>
+        <ul class="dropdown-menu">
+          <li ng-repeat="type in ['Job Function', 'Goal', 'Achievement'] track by $index">
+            <a class="clickable" ng-click="setType(type)">
+              {{type}}</a>
+          </li>
+        </ul>
+      </h3>
+      <span contenteditable="true" class="editable-span"
+        ng-model="entry.description" save="saveEntry()">
+            {{ entry.description || '[Description]' }}</span>
+      <hr />
+    </div>
+  </div>
+  <div class="row">
+    <competency-select competencies="competencies" epar-entry="entry"
+       style="border-right: 1px solid #ccc;" class="col-xs-4"></competency-select>
+
+    <div class="col-xs-8">
+      <div ng-if="entry.items.length === 0">
+        <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
+        Please, start by selecting one or more competencies
+      </div>
+      <div ng-repeat="item in entry.items" style="margin-bottom: 1em;">
+        <div ng-if="item.behavioralIndicator">
+          <span ng-if="!$first">Also, </span>
+          In the competency of {{ item.competency.name }}
+          I <span contenteditable="true" class="editable-span"
+            ng-model="item.behavioralIndicator" save="saveEntry()">
+            {{ item.behavioralIndicator }}</span>
+          by <span contenteditable="true" class="editable-span"
+            ng-model="item.example" save="saveEntry()">
+            {{ item.example || '[Specific Example]' }}</span>
+          with the impact that <span contenteditable="true" class="editable-span"
+            ng-model="item.impact" save="saveEntry()">
+            {{ item.impact || '[Impact]' }}</span>.
+        </div>
+        <div ng-if="!item.behavioralIndicator">
+          For the competency of {{ item.competency.name }}
+          <span class="dropdown" dropdown on-toggle="toggled(open)">
+            <a href class="dropdown-toggle" dropdown-toggle>
+              Select a behavioral indicator
+            </a>
+            <ul class="dropdown-menu pull-right">
+              <li ng-repeat="bi in item.competency.behavioral_Indicators">
+                <a class="clickable" ng-click="setBehavioralIndicator(item,bi.description)">
+                  {{bi.description}}</a>
+              </li>
+            </ul>
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="entry-actions">
+      <span class="btn" tooltip="{{ copyText }}" ng-init="copyText = 'Copy content'"
+  				tooltip-placement="top" tooltip-animation="false">
+        <span class="glyphicon glyphicon-copy" aria-hidden="true"
+          clip-copy="getTextToCopy()" clip-click="textCopied()"></span>
+      </span>
+      <span class="btn" tooltip="Remove entry"
+  				tooltip-placement="top" tooltip-animation="false">
+        <span class="glyphicon glyphicon-remove" aria-hidden="true"
+          confirm-button="removeEntry(entry)"
+  				message="Are you sure you want to delete this entry?"
+  				yes="Delete" no="Cancel" placement="left"></span>
+      </span>
+    </div>
+  </div>
+</div>
